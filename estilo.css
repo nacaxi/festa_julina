@@ -7,18 +7,18 @@ body{
     font-style: normal;
 }
 
-.sócratesfilósofo{
-    font-size: 25px;
-}
-
 .oi{
     color: #00ffff;
+    font-size: 100px;
+    font-weight: bold;
 }
   
 .tudo{
     color: #ff00ff;
+    font-size: 50px;
 }
   
 .bem{
     color: #ffff00;
+    font-size: 25px;
 }
