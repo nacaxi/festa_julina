@@ -11,14 +11,14 @@ body{
     text-align: center;
 }
 
-.nãosei{
-    display: flex;
-}
-
 .oi{
     color: #00ffff;
     font-size: 100px;
     font-weight: bold;
+}
+
+.nãosei{
+    display: flex;
 }
   
 .tudo{
