@@ -11,6 +11,10 @@ body{
     text-align: center;
 }
 
+.nãosei{
+    display: flex;
+}
+
 .oi{
     color: #00ffff;
     font-size: 100px;
