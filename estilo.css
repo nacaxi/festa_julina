@@ -7,6 +7,10 @@ body{
     font-style: normal;
 }
 
+.sócratesfilósofo{
+    display: flex;
+}
+
 .oi{
     color: #00ffff;
     font-size: 100px;
