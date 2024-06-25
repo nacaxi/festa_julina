@@ -6,7 +6,11 @@ body{
     font-weight: 400;
     font-style: normal;
 }
-  
+
+.sócratesfilósofo{
+    font-size: 100px;
+}
+
 .oi{
     color: #00ffff;
 }
